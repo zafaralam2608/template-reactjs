@@ -7,7 +7,7 @@ function Welcome() {
       <p>
         This is the custom route page.
         Click
-        <a href="/">here</a>
+        <a href="/#">here</a>
         for home page.
       </p>
     </div>
