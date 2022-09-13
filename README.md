@@ -1,4 +1,4 @@
-# IMDb
+# Template React JS
 [View Demo](https://zafaralam2608.github.io/template-reactjs/)
 
 ## About the project
