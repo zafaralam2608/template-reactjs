@@ -7,7 +7,7 @@ function Welcome() {
       <p>
         This is the custom route page.
         Click
-        <a href="#/">here</a>
+        <a href="#/" style={{ textDecoration: 'none' }}> here </a>
         for home page.
       </p>
     </div>

@@ -7,7 +7,7 @@ function Dashboard() {
       <p>
         This is the default page.
         Click
-        <a href="#/welcome">here</a>
+        <a href="#/welcome" style={{ textDecoration: 'none' }}> here </a>
         for other page.
       </p>
     </div>
